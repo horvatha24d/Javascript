@@ -25,3 +25,18 @@ Mi az interpreter (parancsértelmező)?
 - JavaScript bögésző
 
 
+
+
+## JavaScript kód elhelyezése
+1. `<script>` tag-ek közé
+
+/ slash
+\ backslash
+´ backtick
+```
+
+
+```
+
+2. .js fájlba,`<script src="script.js"></script>`
+
